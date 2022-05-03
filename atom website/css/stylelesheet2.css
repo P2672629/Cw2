@@ -1,0 +1,68 @@
+body{
+  background-color: green;
+}
+
+h1 {
+  text-align: center;
+  color: dark blue;
+  font-size: 2em;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+a {background-color: black;}
+
+.link{background-color: gold}
+
+
+
+
+
+h2{
+
+  text-align: center;}
+
+  a{background-color: light gray;
+
+  text-decoration: underline
+
+font-family: sans-serif;
+
+}
+
+
+
+
+
+  .DVD {
+
+  float: middle;
+
+}
+
+.interview one {
+  float: left;
+}
